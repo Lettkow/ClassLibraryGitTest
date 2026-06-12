@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassLibraryGitTest
 {
-    public class Class11
+    public class Class112
     {
 
     }
